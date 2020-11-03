@@ -1340,6 +1340,51 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "Jackson",
+      "hp": "32",
+      "sprites": {
+        "front": "https://i.pinimg.com/originals/15/f7/5c/15f75c8be52e7d6cf1902f5eb9f4f531.jpg",
+        "back": "https://friendlystock.com/wp-content/uploads/2019/08/11-dinosaur-hatching-from-egg-cartoon-clipart.jpg"
+      },
+      "id": 151
+    },
+    {
+      "name": "A",
+      "hp": "32",
+      "sprites": {
+        "front": "https://www.pngitem.com/pimgs/m/62-628961_dinosaur-cartoon-animation-dinosaurs-clipart-hd-png-download.png",
+        "back": "https://friendlystock.com/wp-content/uploads/2019/08/11-dinosaur-hatching-from-egg-cartoon-clipart.jpg"
+      },
+      "id": 152
+    },
+    {
+      "name": "Jack",
+      "hp": "32",
+      "sprites": {
+        "front": "https://i.pinimg.com/originals/15/f7/5c/15f75c8be52e7d6cf1902f5eb9f4f531.jpg",
+        "back": "https://friendlystock.com/wp-content/uploads/2019/08/11-dinosaur-hatching-from-egg-cartoon-clipart.jpg"
+      },
+      "id": 153
+    },
+    {
+      "name": "Jack",
+      "hp": "32",
+      "sprites": {
+        "front": "https://i.pinimg.com/originals/15/f7/5c/15f75c8be52e7d6cf1902f5eb9f4f531.jpg",
+        "back": "https://friendlystock.com/wp-content/uploads/2019/08/11-dinosaur-hatching-from-egg-cartoon-clipart.jpg"
+      },
+      "id": 154
+    },
+    {
+      "name": "!!!!!",
+      "hp": "32",
+      "sprites": {
+        "front": "https://www.pngitem.com/pimgs/m/62-628961_dinosaur-cartoon-animation-dinosaurs-clipart-hd-png-download.png",
+        "back": "https://friendlystock.com/wp-content/uploads/2019/08/11-dinosaur-hatching-from-egg-cartoon-clipart.jpg"
+      },
+      "id": 155
     }
   ]
 }
